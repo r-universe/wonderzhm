@@ -1,5 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
+[submodule "betaBayes"]
+	path = betaBayes
+	url = https://github.com/cran/betaBayes
+[submodule "lpme"]
+	path = lpme
+	url = https://github.com/cran/lpme
+[submodule "spBayesSurv"]
+	path = spBayesSurv
+	url = https://github.com/cran/spBayesSurv
