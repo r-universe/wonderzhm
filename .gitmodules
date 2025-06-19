@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
+[submodule "BasketTrial"]
+	path = BasketTrial
+	url = https://github.com/wonderzhm/baskettrial
 [submodule "betaBayes"]
 	path = betaBayes
 	url = https://github.com/cran/betaBayes
